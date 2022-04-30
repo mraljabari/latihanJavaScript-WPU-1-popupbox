@@ -1,4 +1,6 @@
+//ini popbox menggunakan javascript
 alert('Selamat Datang diAplikasi input data');
+
 var lagi = false;
 
 while(lagi === false){
